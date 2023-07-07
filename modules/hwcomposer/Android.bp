@@ -37,5 +37,6 @@ cc_library_shared {
         "-DLOG_TAG=\"hwcomposer\"",
         "-Wall",
         "-Werror",
+        "-Ofast",
     ],
 }
